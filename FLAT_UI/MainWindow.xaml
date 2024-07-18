@@ -72,7 +72,7 @@
                             Opacity="0.3"
                             Margin="10,10,0,0" />
 
-                    <TextBlock Text="WORKING &#x0a;CAPITAL &#x0a;$392.1K"
+                    <TextBlock Text=""
                                Foreground="#FFFFFF"
                                FontFamily="Oswald"
                                FontSize="32"
@@ -117,7 +117,7 @@
                             Opacity="0.3"
                             Margin="10,10,0,0" />
 
-                    <TextBlock Text="DAILY &#x0a;EXPENSES &#x0a;$10.6K"
+                    <TextBlock Text=""
                                Foreground="#FFFFFF"
                                FontFamily="Oswald"
                                FontSize="32"
@@ -162,7 +162,7 @@
                             Opacity="0.3"
                             Margin="10,10,0,0" />
 
-                    <TextBlock Text="ACCOUNTS &#x0a;PAYABLE &#x0a;$6.7K"
+                    <TextBlock Text=""
                                Foreground="#FFFFFF"
                                FontFamily="Oswald"
                                FontSize="32"
@@ -207,7 +207,7 @@
                             Opacity="0.3"
                             Margin="10,10,0,0" />
 
-                    <TextBlock Text="REVENUE &#x0a;GROWTH &#x0a;$62.8K"
+                    <TextBlock Text=""
                                Foreground="#FFFFFF"
                                FontFamily="Oswald"
                                FontSize="32"
